@@ -65,7 +65,7 @@ db_connect.php
 ![Admin Login](screenshots/adminlogin.png)
 
 ### 📋 Admin — Manage Booking Requests  
-![Admin Requests](screenshots/adminrequest.png)
+![Admin Requests](screenshots/adminrequests.png)
 
 ### 📅 Daily Rental Report  
 ![Daily Report](screenshots/dailyreport.png)
